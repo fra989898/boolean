@@ -1,0 +1,25 @@
+
+.container{
+  color: red;
+}
+
+
+h2{
+  color: green;
+
+}
+
+header{
+  text-align: center;
+  font-style: italic;
+}
+
+main{
+  text-align: center;
+}
+
+body{
+  background-image: url(background.jpg);
+
+  background-size: cover;
+}
